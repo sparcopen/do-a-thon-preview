@@ -720,9 +720,10 @@
 		overflow-x: auto;
 	}
 
-	table a{
-		color: blue;
-	}
+	table a {
+			color: #E64D2F;
+		}
+		
 	table {
 		margin: 0 0 2em 0;
 		width: 100%;
