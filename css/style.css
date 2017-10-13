@@ -1053,7 +1053,7 @@
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
-		padding: 14em 0em 14em;
+		padding: 10% 0% 10%;
 		text-align: center;
 	}
 
@@ -1086,8 +1086,8 @@
 			font-size: 1.4em;
 			color: #4F5252;
 			margin-bottom: 1.75em;
-			margin-left: 10em;
-			margin-right: 10em;
+			margin-left: 15%;
+			margin-right: 15%;
 			line-height: 180%;
 			font-weight: 100;
 		}
