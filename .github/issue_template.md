@@ -14,10 +14,10 @@ Please remove the content between the *** and paste the metadata you received af
 **Issue Type:**
 
 ## **Description** 
-[ Insert a paragraph providing more context for your project or challenge is about ] 
+_Insert a paragraph providing more context for your project or challenge focuses on. For project leads, this is a good place to give some broader context about your project—beyond the scope of the do-a-thon._
 
 ## FOR PROJECTS ONLY: **What are we working on during the do-a-thon? What kinds of support do we need?** 
-[ ask them to insert a paragraph or here too ] 
+_Challenge leads will not need to fill out this section. For those leading projects, please give some more information about what type of support you are specifically looking to get done during the do-a-thon day._
 
 ## FOR PROJECTS ONLY: **How can others contribute?** 
-[ ask them to put contributing guidelines here -  maybe we can provide a template for this as well ] 
+_Please include contributing guidelines here. Let folks know how they get in contact with you, and what the best way to contribute to the project is._ 
