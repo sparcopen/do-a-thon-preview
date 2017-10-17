@@ -2,9 +2,9 @@ Hi <<name>>,
 
 Thanks so much for submitting your project to the OpenCon 2017 Do-a-Thon! We're excited about your project. The next step is to get information about your project on our Github Issues page, where others will be able to discover and learn more about what types of support you need.  
 
-<b>Please follow the following steps carefully:</b>
+**Please follow the following steps carefully:**
 
-1)If you don't have one [already][(https://aurl.org), create a Github account! Github is a platform for open source, collaborative working. We'll be using it as a space to manage do-a-thon projects—including yours! 
+1)If you don't have one (already)[(https://aurl.org), create a Github account! Github is a platform for open source, collaborative working. We'll be using it as a space to manage do-a-thon projects—including yours! 
 
 2) Share what kind of help you need by posting a Github issue at this link. This will act as a discussion thread where people can work together and talk about what your project needs. 
 
