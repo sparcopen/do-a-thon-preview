@@ -1,17 +1,12 @@
 ## **Submission MetaData**
 Please remove the content between the *** and paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
 
-**Submission Name:** _Name of your project or challenge_
-
-**Contact Lead:** _What's the best way for folks to get in touch with you? Leave your twitter handle, github profile or email here - whatever way is best to get in touch with you for this project!_
-
-**External Site Link (optional - primarily for projects):** _For project leads, if your project already has a site where folks can learn more about your project, leave a URL here._
-
-**Region**: _What region is your project or challenge based out of, if any?_
-
-**Issue Area:** _What area of Open Research or Open Education does your project or challenge fall under?_
-
-**Issue Type:** _Are you submitting a challenge or project?_
+* **Submission Name:** _Name of your project or challenge_
+* **Contact Lead:** _What's the best way for folks to get in touch with you? Leave your twitter handle, github profile or email here - whatever way is best to get in touch with you for this project!_
+* **External Site Link (optional - primarily for projects):** _For project leads, if your project already has a site where folks can learn more about your project, leave a URL here._
+* **Region**: _What region is your project or challenge based out of, if any?_
+* **Issue Area:** _What area of Open Research or Open Education does your project or challenge fall under?_
+* **Issue Type:** _Are you submitting a challenge or project?_
 
 ## **Description** 
 _Insert a paragraph providing more context for your project or challenge focuses on. For project leads, this is a good place to give some broader context about your project—beyond the scope of the do-a-thon._
