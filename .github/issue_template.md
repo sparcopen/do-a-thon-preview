@@ -1,6 +1,6 @@
 
 [//]: # "=======================
-Even if you know Github well, we suggest you read this! Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via "Preview changes"). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new (project)[https://goo.gl/forms/owB0lcLDsy55Wg542], or (challenge)[https://goo.gl/forms/DuRPOvai8Vh9WsMq2]. We suggest you fill out the relavent Google Forms first!
+Even if you know Github well, we suggest you read this! Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via "Preview changes"). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new project, or challenge. We suggest you fill out the relavent Google Forms first!
 ============================"
 
 #### **Submission MetaData**
