@@ -1,3 +1,10 @@
+[//]: # "=======================
+
+I'm some text that will be hidden when an issue issue is made
+
+============================"
+
+
 ## **Submission MetaData**
 Please remove the content between the *** and paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
 
