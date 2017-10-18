@@ -1,9 +1,10 @@
 
 [//]: # "=======================
-Don't worry about these introductory lines - you can leave or delete them, as they won't display anyway (you can check this via Preview).
+Even if you know Github, we suggest you read this! Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview). They're here to help you complete issues. 
 ============================"
 
 #### **Submission MetaData**
+[//]: # "=======================
 Please remove the content between the *** and paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
 
 * **Submission Name:** _Name of your project or challenge_
@@ -12,6 +13,7 @@ Please remove the content between the *** and paste the metadata you received af
 * **Region**: _What region is your project or challenge based out of, if any?_
 * **Issue Area:** _What area of Open Research or Open Education does your project or challenge fall under?_
 * **Issue Type:** _Are you submitting a challenge or project?_
+============================"
 
 #### **Description**
 [//]: # "=======================
