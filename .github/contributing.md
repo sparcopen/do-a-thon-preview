@@ -4,8 +4,12 @@ The OpenCon Do-a-thon is X (insert from site).
 
 You can find more information about contributing (here)[http://doathon.opencon2017.org/].
 
-[//]: # "=======================
-# Tech contributing (which will be the only thing here moved upon moving to production)
+
+
+
+
+
+# Tech contributing (which will be the only thing here upon moving to production)
 
 ## How to contribute
 
@@ -16,4 +20,3 @@ If you have a non-trival edit to the site (and perhaps, even if it is trivial) m
 Note: we know that usually you'd use branches & forks to do this. But for some reason Github Pages only works on one branch and we'd like anyone to be able to see & code changes without installing things locally. This way, if you can vaguely code HTML you're a 1st class citizen in editing the site. 
 
 If you have edits to github docs (contributing, readme, support, code of conduct) etc they're best made in the other repo, as they'll be different here. 
-============================"
