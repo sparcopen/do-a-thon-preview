@@ -2,7 +2,7 @@
 
 The OpenCon Do-a-thon is X (insert from site). 
 
-You can find more information about contributing (here)[http://doathon.opencon2017.org/].
+You can find more information about contributing [here](http://doathon.opencon2017.org/).
 
 
 
