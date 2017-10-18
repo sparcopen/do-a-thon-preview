@@ -4,6 +4,7 @@ Even if you know Github, we suggest you read this! Anything between these lines 
 ============================"
 
 #### **Submission MetaData**
+
 [//]: # "=======================
 Please remove the content between the *** and paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
 * **Submission Name:** _Name of your project or challenge_
