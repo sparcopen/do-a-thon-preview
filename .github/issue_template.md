@@ -1,12 +1,16 @@
 
 [//]: # "=======================
-Even if you know Github, we suggest you read this! Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview). They're here to help you complete issues. 
+Even if you know Github well, we suggest you read this! 
+
+Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via "Preview changes"). They're here to help you complete issues quickly and in a way that will help other participants. 
+
+If you're posting a new (project)[https://goo.gl/forms/owB0lcLDsy55Wg542], or (challenge)[https://goo.gl/forms/DuRPOvai8Vh9WsMq2]. We suggest you fill out the relavent Google Forms first!
 ============================"
 
 #### **Submission MetaData**
 
 [//]: # "=======================
-Please remove the content between the *** and paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
+Please paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
 ============================"
 
 * **Submission Name:** _Name of your project or challenge_
@@ -18,16 +22,16 @@ Please remove the content between the *** and paste the metadata you received af
 
 #### **Description**
 [//]: # "=======================
-_Insert a paragraph providing more context for your project or challenge focuses on. For project leads, this is a good place to give some broader context about your project—beyond the scope of the do-a-thon._
+Insert a paragraph providing more context for your project or challenge focuses on. For project leads, this is a good place to give some broader context about your project—beyond the scope of the do-a-thon.
 ============================"
 
 #### **What are we working on during the do-a-thon? What kinds of support do we need?** 
 [//]: # "=======================
-_For those leading projects, please give some more information about what type of support you are specifically looking to get done during the do-a-thon day._
-_Note: Challenge leads will not need to fill out this section._ 
+For those leading projects, please give some more information about what type of support you are specifically looking to get done during the do-a-thon day.
+Note: Challenge leads will not need to fill out this section and can remove it.
 ============================"
 
 ####  **How can others contribute?** 
 [//]: # "=======================
-_Please include contributing guidelines here. Let folks know how they get in contact with you, and what the best way to contribute to the project or challenge is. E.g. if you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread._ 
+Please include contributing guidelines here. Let folks know how they get in contact with you, and what the best way to contribute to the project or challenge is. E.g. if you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread.
 ============================"
