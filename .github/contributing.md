@@ -1,4 +1,12 @@
-# How to contribute
+# How to Get Involved
+
+The OpenCon Do-a-thon is X (insert from site). 
+
+You can find more information about contributing (here)[http://doathon.opencon2017.org/].
+
+# Tech contributing (which will be the only thing here moved upon moving to production)
+
+## How to contribute
 
 This is intended a minor, both in code & set up, to the [live doathon site](http://doathon.opencon2017.org/). It's here mainly for testing purposes as coding is hard, we're not great at it, and we'll need to make changes while people are actively using the site (yay agile). 
 
