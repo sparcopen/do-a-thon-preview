@@ -1,6 +1,6 @@
 
 [//]: # "=======================
-Even if you know Github well, we suggest you read this. Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview changes). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new project, or challenge. We suggest you fill out the Google Forms first. 
+Even if you know Github well, we suggest you read this. Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview changes). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new project, or challenge. We suggest you fill out the Google Forms first.
 ============================"
 
 #### Submission MetaData
@@ -30,4 +30,13 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 ####  How can others contribute?
 [//]: # "=======================
 Please include contributing guidelines here. Let folks know how they get in contact with you, and what the best way to contribute to the project or challenge is. E.g. if you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread.
+============================"
+
+[//]: # "=======================
+After posting your issue, the real work begins. Next you might want to:
+* Tweet a link to this issue with #opencon so others can join in!
+* Make another issue to involve people in your work (remember to use your metadata!)
+* Come back from time to time and update the community on your project.
+
+You'll get an email update whenever someone interacts with your issue.
 ============================"
