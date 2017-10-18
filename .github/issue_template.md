@@ -21,7 +21,6 @@ _Insert a paragraph providing more context for your project or challenge focuses
 #### **What are we working on during the do-a-thon? What kinds of support do we need?** 
 [//]: # "=======================
 _For those leading projects, please give some more information about what type of support you are specifically looking to get done during the do-a-thon day._
-
 _Note: Challenge leads will not need to fill out this section._ 
 ============================"
 
