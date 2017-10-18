@@ -41,4 +41,4 @@ After posting your issue, the real work begins. Next you might want to:
 You'll get an email update whenever someone interacts with your issue.
 ============================"
 
-_This post is part of the OpenCon 2017 Do-A-Thon. Not sure what's going on, (head here)[doathon.opencon2017.org]_
+_This post is part of the OpenCon 2017 Do-A-Thon. Not sure what's going on, [head here](doathon.opencon2017.org)_
