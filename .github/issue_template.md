@@ -1,9 +1,7 @@
+
 [//]: # "=======================
-
-I'm some text that will be hidden when an issue issue is made
-
+Don't worry about these introductory lines - you can leave or delete them, as they won't display anyway (you can check this via Preview).
 ============================"
-
 
 ## **Submission MetaData**
 Please remove the content between the *** and paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
