@@ -3,7 +3,7 @@
 Even if you know Github well, we suggest you read this. Anything between these lines you can leave or delete, as they won't display anyway when you post (you can check this via Preview changes). They're here to help you complete issues quickly and in a way that will help other participants. If you're posting a new project, or challenge. We suggest you fill out the Google Forms first.
 ============================"
 
-#### Submission MetaData
+#### At a glance
 
 [//]: # "=======================
 Please paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
@@ -40,3 +40,5 @@ After posting your issue, the real work begins. Next you might want to:
 
 You'll get an email update whenever someone interacts with your issue.
 ============================"
+
+_This post is part of the OpenCon 2017 Do-A-Thon. Not sure what's going on, (head here)[doathon.opencon2017.org]_
