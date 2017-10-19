@@ -5,15 +5,17 @@ Learn more about the do-a-thon and get to know how it works on [our website](htt
 
 [![website screenshot](https://github.com/sparcopen/doathon-dev/blob/master/images/website-screenshot.png?raw=true)](https://sparcopen.github.io/doathon-dev/index.html)
 
-### Quick guide
+### Quick start guide
 
-* Share a project for others to get engaged with, or a challenge
-* Find a project or challenge to get engaged with here
-* Find out more about the do-a-thon
+[![website screenshot](https://github.com/sparcopen/doathon-dev/blob/master/images/get-started.png?raw=true)](https://sparcopen.github.io/doathon-dev/index#participate)
 
-# Unsure about Github?
+* Share a [project for others to get engaged with](https://sparcopen.github.io/doathon-dev/project.html), or a [challenge](https://sparcopen.github.io/doathon-dev/challenge.html)
+* Find a project or challenge to get engaged with [here](https://sparcopen.github.io/doathon-dev/participate.html)
+* Find out more about the [do-a-thon](https://sparcopen.github.io/doathon-dev/)
 
-That's okay! There are step by step instructions and help on the website!
+### Unsure about Github?
+
+That's okay, we built a website to make it easy (it's a bit scary, right?) with [step by step instructions](https://sparcopen.github.io/doathon-dev/participate.html#contributing) and we're here to help!
 
 ### Code of Conduct
 This project and everyone participating in it is governed by the [**OpenCon Code of Conduct**](http://www.opencon2017.org/code_of_conduct) and you should read it before participating. By participating, you are expected to uphold this code.
