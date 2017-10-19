@@ -3,7 +3,7 @@
 
 Learn more about the do-a-thon and get to know how it works on [our website](https://sparcopen.github.io/doathon-dev/index.html).
 
-![website screenshot](https://github.com/sparcopen/doathon-dev/blob/master/images/website-screenshot.png?raw=true)
+[![website screenshot](https://github.com/sparcopen/doathon-dev/blob/master/images/website-screenshot.png?raw=true)](https://sparcopen.github.io/doathon-dev/index.html)
 
 ### Quick guide
 
