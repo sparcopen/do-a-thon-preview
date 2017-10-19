@@ -18,7 +18,7 @@ Please paste the metadata you received after submitting your project or challeng
 
 #### Description
 [//]: # "=======================
-Insert a paragraph providing more context for your project or challenge focuses on. For project leads, this is a good place to give some broader context about your project—beyond the scope of the do-a-thon.
+Insert a paragraph providing more context for your project or challenge focuses on. For project leads, this is a good place to give some broader context about your project—beyond the scope of the do-a-thon. If you're posting a challenge, this is a good chance to say how the problem arise or why it feels relevant to you.
 ============================"
 
 #### What are we working on during the do-a-thon? What kinds of support do we need?
@@ -29,7 +29,7 @@ Note: Challenge leads will not need to fill out this section and can remove it.
 
 ####  How can others contribute?
 [//]: # "=======================
-Please include contributing guidelines here. Let folks know how they get in contact with you, and what the best way to contribute to the project or challenge is. E.g. if you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread.
+Please say what the best way to contribute to the project or challenge is, sometimes that will just be "let's discuss here" or "I've started a Google doc". If you are a challenge lead, give some context on what design thinking tools you'll be using, and how other folks can update their ideas onto the thread. If you're a project lead, and you already have clear ways people can contribute it might be worth linking to them here.
 ============================"
 
 [//]: # "=======================
