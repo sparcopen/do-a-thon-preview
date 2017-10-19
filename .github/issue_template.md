@@ -34,10 +34,9 @@ Please include contributing guidelines here. Let folks know how they get in cont
 
 [//]: # "=======================
 After posting your issue, the real work begins. Next you might want to:
-* Tweet a link to this issue with #opencon so others can join in!
-* Make another issue to involve people in your work (remember to use your metadata!)
+* Tweet a link to this issue with #opencon so others can join in
+* Make another issue to involve people in your work (remember to use your metadata)
 * Come back from time to time and update the community on your project.
-
 You'll get an email update whenever someone interacts with your issue.
 ============================"
 
