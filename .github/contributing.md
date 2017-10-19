@@ -24,9 +24,8 @@ You can find more information about contributing [here](http://doathon.opencon20
 <h3>2. Anyone can propose a project for others to collaborate on and contribute to.</h3>
 <p>Have a project idea you want to put into action? Or an existing project that needs development or support? The do-a-thon is a great opportunity to receive support and contributions from collaborators around the world. Learn more about how to propose and lead a project <u><a href="project">here.</a></u></p>
 
-<h3>3. Anyone can contribute their skills and ideas to exisitng challenges and projects. </h3>
+<h3>3. Anyone can contribute their skills and ideas to existing challenges and projects. </h3>
 <p>Participate from wherever you are by contributing to one or more of the do-a-thon projects and challenges submitted. We expect that most of the action will take place on November 13th, but feel free to get in touch with project leads and see how you can help out beforehand! You can explore the growing list of projects and challenges we're working on <u><a href="participate.html">here</a></u>.</p>
-
 
 
 # Tech contributing (which will be the only thing here upon moving to production)
