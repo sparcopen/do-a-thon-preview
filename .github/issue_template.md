@@ -6,7 +6,7 @@ Even if you know Github well, we suggest you read this. Anything between these l
 #### At a glance
 
 [//]: # "=======================
-Please paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you.
+Please paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you. You can delete what's there now, it's just there
 ============================"
 
 * **Submission Name:** _Name of your project or challenge_
