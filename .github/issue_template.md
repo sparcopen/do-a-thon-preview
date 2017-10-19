@@ -34,6 +34,7 @@ Please include contributing guidelines here. Let folks know how they get in cont
 
 [//]: # "=======================
 After posting your issue, the real work begins. Next you might want to:
+You'll get an email update whenever someone interacts with your issue.
 ============================"
 
 [//]: # "=======================
