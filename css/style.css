@@ -30,7 +30,7 @@
 
 	body, input, select, textarea {
 		color: black;
-		font-family: 'Open Sans', Helvetica, sans-serif;
+		font-family: Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 100;
 		line-height: 1.65em;
@@ -947,7 +947,7 @@
 
 		body.landing #header nav a {
 			color: black;
-			font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 			font-weight: 100;
 			}
 
@@ -975,7 +975,7 @@
 
 			#header h1 a {
 				font-size: 1.25em;
-				font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+				font-family: Helvetica, Arial, sans-serif;
 				font-weight:100;
 			}
 
@@ -1062,7 +1062,7 @@
 
 		#banner h2 {
 			color: #144857;
-			font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-family: Helvetica, Arial, sans-serif;
 			font-size: 7em;
 			line-height: 1em;
 			margin: 0 0 0.2em 0;
@@ -1072,7 +1072,7 @@
 
 		#banner h3 {
 			color: #4F5252;
-			font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-family: Helvetica, Arial, sans-serif;
 			font-size: 3em;
 			line-height: 1em;
 			margin: 0 0 1em 0;
