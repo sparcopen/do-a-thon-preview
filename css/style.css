@@ -32,7 +32,7 @@
 		color: black;
 		font-family: Helvetica, sans-serif;
 		font-size: 13pt;
-		font-weight: 100;
+		font-weight: 200;
 		line-height: 1.65em;
 	}
 
@@ -55,7 +55,7 @@
 	}
 
 	p {
-		font-weight: 100;
+		font-weight: 200;
 		margin: 0 0 2em 0;
 	}
 
@@ -325,7 +325,7 @@
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 400;
+			font-weight: 200;
 			padding-left: 2.4em;
 			padding-right: 0.75em;
 			position: relative;
@@ -807,7 +807,7 @@
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 100;
+		font-weight: 200;
 		height: 2.85em;
 		line-height: 2.95em;
 		padding: 0 2em;
@@ -948,7 +948,7 @@
 		body.landing #header nav a {
 			color: black;
 			font-family: Helvetica, Arial, sans-serif;
-			font-weight: 100;
+			font-weight: 200;
 			}
 
 	#header {
@@ -1077,7 +1077,7 @@
 			line-height: 1em;
 			margin: 0 0 1em 0;
 			padding: 0;
-			font-weight: 400;
+			font-weight: 200;
 		}
 
 
@@ -1088,7 +1088,7 @@
 			margin-left: 15%;
 			margin-right: 15%;
 			line-height: 180%;
-			font-weight: 100;
+			font-weight: 200;
 		}
 
 /* Wrapper */
@@ -1108,11 +1108,11 @@
 
 		.wrapper.style1 h2 {
 			color: #144857;
-			font-weight: 100;
+			font-weight: 200;
 		}
 
 		.wrapper.style1 h3 {
-			font-weight: 100;
+			font-weight: 200;
 		}
 
 
@@ -1134,17 +1134,19 @@
 					background-color: white;
 					border-bottom: 1px solid rgba(144, 144, 144, 0.25);
 					border-top: 1px solid rgba(144, 144, 144, 0.25);
+					margin-left: 20%;
+					margin-right: 20%;
 				}
 
 				.wrapper.style5 h2 {
 					color: #144857;
-					font-weight: 100;
+					font-weight: 200;
 					text-align: left;
 				}
 
 				.wrapper.style5 h3 {
 					color: #E64D2F;
-					font-weight: 100;
+					font-weight: 400;
 					text-align: left;
 					font-size: 1.5em
 				}
@@ -1152,6 +1154,8 @@
 				.wrapper.style5 p {
 					color: black;
 					text-align:left;
+					font-size: 1.1em;
+					line-height: 150%
 				}
 
 
@@ -1174,20 +1178,22 @@
 
 						.wrapper.style6 h2 {
 							color: #858585;
-							font-weight: 100;
+							font-weight: 200;
 							text-align: left;
 						}
 
 						.wrapper.style6 h3 {
 							color: #858585;
-							font-weight: 100;
+							font-weight: 200;
 							text-align: left;
-							font-size: 1.5em
+							font-size: 1.5em;
 						}
 
 						.wrapper.style6 p {
 							color: black;
 							text-align:left;
+							font-size: 1.1em;
+							line-height: 130%
 						}
 
 
@@ -1204,17 +1210,19 @@
 									background-color: white;
 									border-bottom: 1px solid rgba(144, 144, 144, 0.25);
 									border-top: 1px solid rgba(144, 144, 144, 0.25);
+									margin-left: 20%;
+									margin-right: 20%;
 								}
 
 								.wrapper.style7 h2 {
 									color: #858585;
-									font-weight: 100;
+									font-weight: 200;
 									text-align: left;
 								}
 
 								.wrapper.style7 h3 {
 									color: #858585;
-									font-weight: 100;
+									font-weight: 200;
 									text-align: left;
 									font-size: 1.5em
 								}
