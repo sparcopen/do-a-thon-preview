@@ -2,6 +2,8 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:100,400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 /*
 	Transit by TEMPLATED
@@ -32,7 +34,7 @@
 		color: black;
 		font-family: "Lora", Helvetica, sans-serif;
 		font-size: 13pt;
-		font-weight: 200;
+		font-weight: 400;
 		line-height: 1.65em;
 	}
 
