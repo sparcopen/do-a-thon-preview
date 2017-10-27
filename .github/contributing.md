@@ -20,10 +20,14 @@ If you have edits to github docs (contributing, readme, support, code of conduct
 
 * Copy files, or changes (once tested) over from Dev to live. On /doathon, the website files live under /docs. This means almost all your changes and files will be in that folder.
 * There are some inconsistencies between dev & live to be aware of when moving things over. Here is what they are, and how to fix them:
-  * Images: On dev, these are usually structured
-  * Links
-  * Github specfic
+  * Image links: On dev, these are usually structured /doathon-dev/images and on live they need to be just /images. You can check and do this in bulk but searching the directory for "/doathon-dev/images" (specifying all that is important!) and asking it to be replaced with "/images".
+  * Links:
+      * replace "index.html"" with ""/""
+      * replace ""participate.html"" with ""/participate""
+      * replace ""project.html"" with ""/project""
+      * replace ""challenge.html"" with ""/challenge""
 
-And, before you commit your code you can run the following quick checks to catch common errors:
- * search for https://sparcopen to find bad links
- *
+  * Github specific
+    *  Only in the readme:
+        * replace "https://sparcopen.github.io/doathon-dev" with http://doathon.opencon2017.org
+        * replace ".html" with nothing.
