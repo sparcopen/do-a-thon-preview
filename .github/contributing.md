@@ -16,7 +16,7 @@ If you have edits to github docs (contributing, readme, support, code of conduct
 * When presented an event type more generally, it's a do-a-thon.
 * In URLs, or other places where adding dashes hurts UX, it's doathon
 
-### Release instructions
+### Release instructions
 
 If you've made major changes, you'll need to complete the following before moving onto doathon.opencon2017.org (aka live).
 
