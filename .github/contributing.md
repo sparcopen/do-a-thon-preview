@@ -18,6 +18,12 @@ If you have edits to github docs (contributing, readme, support, code of conduct
 
 ### Release instructions
 
+If you've made major changes, you'll need to complete the following before moving onto doathon.opencon2017.org (aka live).
+
+* link checking
+* mobile checking
+* incognito testing
+
 * Copy files, or changes (once tested) over from Dev to live. On /doathon, the website files live under /docs. This means almost all your changes and files will be in that folder.
 * There are some inconsistencies between dev & live to be aware of when moving things over. Here is what they are, and how to fix them:
   * Image links: On dev, these are usually structured /doathon-dev/images and on live they need to be just /images. You can check and do this in bulk but searching the directory for "/doathon-dev/images" (specifying all that is important!) and asking it to be replaced with "/images".
