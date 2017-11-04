@@ -9,43 +9,44 @@
 		<meta charset="UTF-8">
 		<title>OpenCon 2017 Do-A-Thon</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<link rel="icon" type="image/x-icon" href="/doathon-dev/images/favicon.ico" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-
-		<!--  Essential META Tags -->
-
-		<meta property="og:title" content="OpenCon 2017 Do-A-Thon">
-		<meta property="og:description" content="We invite you to join us for a day of making, collaborating, trying, teaching, designing, testing, and learning in the name of Open Research and Education.">
-		<meta property="og:image" content="/doathon-dev/images/social.png">
-		<meta property="og:url" content="http://doathon.opencon2017.org">
-		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="@open_con" />
-
-		<style type="text/css">
-		  .js #fouc { display: none; }
-		  </style>
-		  <script type="text/javascript">
-		    document.documentElement.className='js';
-		  </script>
-
-
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
 		<noscript>
-			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 		</noscript>
 
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61115389-4"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'UA-61115389-4');
+		</script>
+
+
+	<!-- Start of opencon Zendesk Widget script -->
+	<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencon.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+	/*]]>*/</script>
+	<!-- End of opencon Zendesk Widget script -->
+
+
 	</head>
 	<body class="landing">
-		<div id="fouc">
-
 
 		<!-- Header -->
 
 			<header id="header">
-				<h1><a href="#">OPENCON DO-A-THON</a></h1>
+				<h1><a href="#">OPENCON 2017</a></h1>
 				<nav id="nav">
 					<ul>
 						<li><a href="challenge.html">SUBMIT CHALLENGE</a></li>
@@ -280,8 +281,6 @@
 							<ul class="unstyled">
 								<li><a href="http://www.opencon2017.org/" target="_blank">OpenCon 2017 Main Site</a></li>
 								<li><a href="http://www.opencon2017.org/code_of_conduct" target="_blank">Our Code of Conduct</a></li>
-								<li><a href="mailto:Lorraine@sparcopen.org" target="_blank">Feedback</a></li>
-								<li><a href="/doathon-dev/github-help.html" target="_blank">Github Help</a></li>
 							</ul>
 						</section>
 					</div>
@@ -306,27 +305,6 @@
 				</div>
 			</div>
 		</footer>
-	</div>
-	<script type="text/javascript">
-		document.getElementById("fouc").style.display="block";
-		</script>
+
 	</body>
-	<script src="js/jquery.min.js"></script>
-	<script src="js/skel.min.js"></script>
-	<script src="js/skel-layers.min.js"></script>
-	<script src="js/init.js"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61115389-4"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'UA-61115389-4');
-	</script>
-
-
-<!-- Start of opencon Zendesk Widget script -->
-<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencon.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
-/*]]>*/</script>
-<!-- End of opencon Zendesk Widget script -->
 </html>
