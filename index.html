@@ -41,12 +41,16 @@
 		<meta name="twitter:site" content="@open_con" />
 
 		<style type="text/css">
-		  .js #fouc { display: none; }
-		  </style>
-		  <script type="text/javascript">
-		    document.documentElement.className='js';
-		  </script>
-
+			.hidden {display:none;}
+		</style>
+		<script type="text/javascript" src="/scripts/jquery.js"></script>
+		<script type="text/javascript">
+			$('html').addClass('hidden');
+			$(document).ready(function() {    // EDIT: From Adam Zerner's comment below: Rather use load: $(window).on('load', function () {...});
+				$('html').show();  // EDIT: Can also use $('html').removeClass('hidden');
+			 });
+		 </script>
+		 
 
 		<noscript>
 			<link rel="stylesheet" href="css/style.css" />
