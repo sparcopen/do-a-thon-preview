@@ -6,7 +6,7 @@ Even if you know Github well, we suggest you read this. Anything between these l
 #### At a glance
 
 [//]: # "=======================
-Please paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you. You can delete what's there now, it's just there
+Please paste the metadata you received after submitting your project or challenge in your Google Form exactly as we sent it to you. You can delete what's there now.
 ============================"
 
 * **Submission Name:** _Name of your project or challenge_
@@ -15,7 +15,7 @@ Please paste the metadata you received after submitting your project or challeng
 * **Region**: _What region is your project or challenge based out of, if any?_
 * **Issue Area:** _What area of Open Research or Open Education does your project or challenge fall under?_
 * **Issue Type:** _Are you submitting a challenge or project?_
-* **Types of Support Needed:** _{ For project leads only } What types of support are you looking for on the do-a-thon day? These categories will be emailed to you. 
+* **Types of Support Needed:** _{ For project leads only } What types of support are you looking for on the do-a-thon day? These categories will be emailed to you.
 
 #### Description
 [//]: # "=======================
