@@ -7,7 +7,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>OpenCon 2018 Do-A-Thon</title>
+		<title>OpenCon Do-A-Thon</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -36,10 +36,10 @@
   		gtag('config', 'UA-61115389-4');
 		</script>
 		<!--  Essential META Tags -->
-		<meta property="og:title" content="OpenCon 2018 Do-A-Thon">
+		<meta property="og:title" content="OpenCon Do-A-Thon">
 		<meta property="og:description" content="We invite you to join us for a day of making, collaborating, trying, teaching, designing, testing, and learning in the name of Open Research and Education.">
 		<meta property="og:image" content="/doathon-dev/images/social.png">
-		<meta property="og:url" content="http://doathon.opencon2018.org">
+		<meta property="og:url" content="https://doathon.opencon2018.org">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@open_con" />
 	</head>
@@ -59,7 +59,29 @@
 				</nav>
 			</header>
 
-		<!-- Banner -->
+			<!-- Banner Suggesting Others Host (USED WHEN SITE ISN'T BEING USED FOR OPENCON FLAGSHIP -->
+				<section id="banner">
+					<H2>HOST A</H2><br><H2>DO-A-THON</H2>
+					<p>
+						Do-a-thons are events that invite participants for a day of making, collaborating, trying, teaching, designing, testing, and learning in the name of Open Research and Education.
+						Do-a-thons are events focused on gettings things done through open practices, inclusive participation, and careful problem exploration.
+					</p>
+
+					<p>Co-designed by OpenCon with a global community that's hosted over 10,000 people at 125+ events, virtual and physical, in more than 50 countries and 30 languages.</p>
+
+
+					<ul class="actions">
+						<li>
+							<a href="mailto:joe@sparcopen.org" class="button big">Find Out More</a>
+						</li>
+					</ul>
+					<a name="participate"></a>
+
+
+		<!-- Banner when site is used for OPENCON FLAGSHIP -->
+
+		<!--
+
 			<section id="banner">
 				<h2>DO-A-THON</h2>
 				<p>
@@ -77,6 +99,8 @@
 
 
 			</section>
+
+		-->
 
 		<!-- One -->
 			<section id="one" class="wrapper style1 special">
@@ -162,12 +186,14 @@
 						</p>
 
 						<h3>
-							 3. Encourage collaboration across skillsets.  Build solutions together.
+							 3. Encourage collaboration across skillsets. Build solutions together.
 						 </h3><a name="how"></a>
 						<p>
 							Amazing things can happen when people with a wide variety of skills and experience come together. We want policy makers to talk to educators, librarians to work with web developers, designers to collaborate with researchers, and everything in between. We're excited to see what happens when folks across disciplines and regions pool together their knowledge to imagine something big.
 						</p>
 </section>
+
+	<!-- HIDING WHEN SITE IS USED TO PROMOTE IDEA OF DOATHON.
 
 <section id="one" class="wrapper style5 special">
 		<header class="major">
@@ -201,6 +227,7 @@
 					</p>
 					</section>
 
+				-->
 
 		<!-- Two
 			<section id="two" class="wrapper style1 special">
@@ -282,10 +309,11 @@
 						<section class="3u 6u(medium) 12u$(small)">
 							<h3>About</h3>
 							<ul class="unstyled">
-								<li><a href="http://www.opencon2018.org/" target="_blank">OpenCon 2018 Main Site</a></li>
-								<li><a href="http://www.opencon2018.org/code_of_conduct" target="_blank">Our Code of Conduct</a></li>
+								<li><a href="https://www.opencon2018.org/" target="_blank">OpenCon Main Site</a></li>
+								<li><a href="https://www.opencon2018.org/code_of_conduct" target="_blank">Our Code of Conduct</a></li>
 								<li><a href="mailto:joe@sparcopen.org" target="_blank">Feedback</a></li>
 								<li><a href="github-help.html" target="_blank">Github Help</a></li>
+								<li><a href="host-your-own.html" target="_blank">Host your own Do-a-thon/a></li>
 							</ul>
 						</section>
 					</div>
@@ -316,8 +344,15 @@
 	<script src="js/skel-layers.min.js"></script>
 	<script src="js/init.js"></script>
 
-<!-- Start of opencon Zendesk Widget script -->
-<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencon.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
-/*]]>*/</script>
-<!-- End of opencon Zendesk Widget script -->
+	<!-- Start of opencon Zendesk Widget script -->
+
+	<!-- Zendesk Widget, now retired for OpenCon sites. Leaving here as a reminder of mechanisms we used.
+
+	<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencon.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+	/*]]>*/</script>
+
+	-->
+
+	<!-- End of opencon Zendesk Widget script -->
+
 </html>
